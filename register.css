@@ -1,0 +1,35 @@
+ body{
+    background-image:url(cup.webp);
+    background-repeat: no-repeat;
+    background-size: 800px 800px;
+    margin-left: 700px;
+ }
+ form{
+    border:solid;
+    height: 400px;
+    width:300px;
+    margin-top: 20px;
+    margin-left: 105px;
+    background-color: white;
+ }
+ h1{
+    color:purple;
+    text-align:center;
+ }
+ label{
+    color:blue;
+    font-size:20px;
+    font-weight: bold;
+ }
+ input{
+    height:20px;
+    width:220px;
+    border-radius: 20px;
+ }
+ button{
+    height:50px;
+    width:180px;
+    background-color:blue;
+    border-radius: 20px;
+    color:white
+ }
